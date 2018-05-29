@@ -6,4 +6,4 @@ This code project is a code by code replication of Youtube channel Traversy Medi
 
 This project uses html, css and js to implement a simple drag and drop interface for an image
 
-![Screenshot](tryingOut/Screenshot from 2018-05-29 10-45-40.png)
+![Screenshot](https://github.com/VasanthakumarV/tryingOut/blob/master/Screenshot%20from%202018-05-29%2010-45-40.png)
