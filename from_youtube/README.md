@@ -5,5 +5,3 @@ This code project is a code by code replication of Youtube channel Traversy Medi
 ## What does this project do?
 
 This project uses html, css and js to implement a simple drag and drop function for an image
-
-![Screenshot](https://github.com/VasanthakumarV/tryingOut/blob/master/Screenshot%20from%202018-05-29%2010-45-40.png)
