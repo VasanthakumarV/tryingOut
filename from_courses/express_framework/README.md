@@ -1,4 +1,4 @@
-# Responsive Navbar
+# Sample express web app
 
 This project will cover my learnings from treehouse express course
 
